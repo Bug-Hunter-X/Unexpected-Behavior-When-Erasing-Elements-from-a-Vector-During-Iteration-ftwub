@@ -1,0 +1,1 @@
+This repository demonstrates a common error in C++ when iterating through and modifying a `std::vector` simultaneously.  The provided code attempts to remove elements while iterating, leading to unexpected behavior and potential crashes.  The `bug.cpp` file showcases the incorrect approach, while `bugSolution.cpp` offers a corrected and safer method for element removal.
